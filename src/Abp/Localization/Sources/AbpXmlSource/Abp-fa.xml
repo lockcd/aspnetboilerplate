@@ -16,5 +16,6 @@
     <text name="TimeZone" value="موقعیت زمانی" />
     <text name="AllOfThesePermissionsMustBeGranted" value="دسترسی مورد نیاز کاربر تعریف نشده است. تمام این حق دسترسی ها باید برای کاربر تعریف شود: {0}" />
     <text name="AtLeastOneOfThesePermissionsMustBeGranted" value="دسترسی مورد نیاز کاربر تعریف نشده است. حداقل یکی از این دسترسی ها باید برای کاربر تعیین شود : {0}" />
+    <text name="MainMenu">منو اصلی</text>
   </texts>
 </localizationDictionary>
